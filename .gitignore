@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Executables
+a.out
+*.exe
+
+# Backup/temporary files
+*~
+*.swp
+
+# Build folders
+build/
